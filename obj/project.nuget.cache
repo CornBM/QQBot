@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG9TJJNLIm4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\18499\\Desktop\\QQBot\\QQBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18499\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
+    "C:\\Users\\18499\\.nuget\\packages\\lagrange.core\\0.3.0\\lagrange.core.0.3.0.nupkg.sha512",
+    "C:\\Users\\18499\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\18499\\.nuget\\packages\\protobuf-net\\3.2.16\\protobuf-net.3.2.16.nupkg.sha512",
+    "C:\\Users\\18499\\.nuget\\packages\\protobuf-net.core\\3.2.16\\protobuf-net.core.3.2.16.nupkg.sha512",
+    "C:\\Users\\18499\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net9.0-windows7.0”还原包“ini-parser 2.5.2”。此包可能与项目不完全兼容。",
+      "libraryId": "ini-parser",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}
