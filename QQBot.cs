@@ -61,6 +61,10 @@ namespace QQBot
             };
             bot.Invoker.OnGroupMessageReceived += (context, @event) =>
             {
+                //如果收到的不是当前机器人的群聊消息，则直接返回
+                if (@event.Chain.GroupUin != GroupId)
+                    return;
+
                 bool isAtMe = false;
                 foreach (var entity in @event.Chain)
                 {
@@ -92,25 +96,18 @@ namespace QQBot
         {
             string[] args = command.Trim().Split(' ');
             string answer = "请输入正确的指令，可输入 /help 查看可用指令。";
+            CommandProcessor processor = null;
             switch (args[0])
             {
                 case "/help":
-                    answer = "可用指令如下:\n" +
-                        "/help - 查看可用指令\n" +
-                        "/ask <问题>- 向大模型提问（若没有会话，则会自动创建）\n" +
-                        "/new <设定Prompt>- 创建新的会话，并设置Prompt\n" +
-                        "/history - 查看会话历史记录";
+                    processor = new Help();
                     break;
                 case "/ask":
-                    if (args.Length >= 2)
+                    if (_currentSession == null)
                     {
-                        if (_currentSession == null)
-                        {
-                            CreatSession("你现在扮演科比·布莱恩特，你是一个伟大的篮球运动员；接下来请用科比·布莱恩特的口吻和用户对话。");
-                        }
-                        string question = args[1];
-                        answer = _currentSession.Ask(question).Result;
+                        CreatSession("");
                     }
+                    processor = new Ask();
                     break;
                 case "/new":
                     if (args.Length >= 2)
@@ -122,15 +119,13 @@ namespace QQBot
                     break;
                 case "/history":
                     if (_currentSession!= null)
-                    {
-                        answer = _currentSession.GetHistory();
-                    }
+                        processor = new History();
                     else
-                    {
                         answer = "当前没有会话";
-                    }
                     break;
             }
+            if (processor != null)
+                answer = processor.Process(_currentSession, args);
             SendMessage(answer);
         }
 

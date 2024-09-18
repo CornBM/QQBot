@@ -26,7 +26,7 @@ namespace QQBot
                 uint groupId = uint.Parse(config["Bot"]["groupId"]);
                 //星火大模型配置参数填写
                 string appId = config["Spark"]["appId"];
-                string appSecret = config["Spark"]["appSecret"];
+                string appSecret = config["Spark"]["apiSecret"];
                 string apiKey = config["Spark"]["apiKey"];
 
                 bot = new QQBot(groupId, appId, appSecret, apiKey, this.autologin.Checked);

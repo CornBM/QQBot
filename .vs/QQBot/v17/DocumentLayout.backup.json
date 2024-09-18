@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\qqbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:qqbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\sparkapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:sparkapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|C:\\Users\\18499\\Desktop\\QQBot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\sparksession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:sparksession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\sparkapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:sparkapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|C:\\Users\\18499\\Desktop\\QQBot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\qqbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:qqbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|c:\\users\\18499\\desktop\\qqbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEE43C-E720-4332-80A6-440AEE566F17}|QQBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "CommandProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\CommandProcessor.cs",
+              "RelativeDocumentMoniker": "CommandProcessor.cs",
+              "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\CommandProcessor.cs",
+              "RelativeToolTip": "CommandProcessor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:45:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "QQBot.cs",
               "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\QQBot.cs",
               "RelativeDocumentMoniker": "QQBot.cs",
               "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\QQBot.cs",
               "RelativeToolTip": "QQBot.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwCkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwH8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T11:18:43.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T14:22:03.243Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
@@ -77,32 +94,33 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwGsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:21:44.094Z"
+              "WhenOpened": "2024-09-15T14:21:44.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SparkApi.cs",
               "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\SparkApi.cs",
               "RelativeDocumentMoniker": "SparkApi.cs",
               "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\SparkApi.cs",
               "RelativeToolTip": "SparkApi.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwEsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswEUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T05:49:32.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SparkSession.cs",
               "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\SparkSession.cs",
               "RelativeDocumentMoniker": "SparkSession.cs",
               "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\SparkSession.cs",
               "RelativeToolTip": "SparkSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T05:49:17.573Z",
               "EditorCaption": ""
@@ -115,14 +133,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\18499\\Desktop\\QQBot\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T11:26:27.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\18499\\Desktop\\QQBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

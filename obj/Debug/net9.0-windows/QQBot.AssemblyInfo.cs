@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QQBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d129957d07a1b2e9f23ece3da0c25b138086739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76d2be737ede8abf0d98077dd8ab81e2f026b1ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("QQBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QQBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
